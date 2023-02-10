@@ -11,4 +11,6 @@ Tus tareas consisten en:
 Alumno del Grado de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: fjjj0001@red.ujaen.es
 * **GitHub**: https://github.com/fjjj0001/
-* **Trello**: https://trello.com/fjjj0001
+* <img src='/github_perfil.png'>
+* **Trello**: https://trello.com/b/BQtsEsoR/tablero-pr%C3%A1ctica-1-desarollo-%C3%A1gil
+* <img src='/imagen_tablero_inicial.png'>
